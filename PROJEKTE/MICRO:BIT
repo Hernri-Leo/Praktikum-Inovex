@@ -2,8 +2,6 @@ from mbglow import *
 
 makeGlow()
 
-forward()
-left(90)
-forward()
-right(90)
-forward()
+repeat 4:
+    forward()
+    left(90)
