@@ -1,4 +1,4 @@
-![Invex-logo]()
+![Invex-logo](https://github.com/Hernri-Leo/Praktikum-Inovex/blob/main/assets/inovex-logo.png)
 # Praktikumsbericht
 
 <details>
