@@ -11,6 +11,8 @@
 | 10:00–10:30 | Einführung in GitHub               |GitHub                   |
 | 10:30–11:00 | Projekt /microbit car              | Chrome                  |
 | 11:00–11:30 | GitHub bericht schreiben           |  Chrome                 |
+| 11:30–12:00 | GitHub + project microbit car         |  Chrome                 |
+
 
 
 
