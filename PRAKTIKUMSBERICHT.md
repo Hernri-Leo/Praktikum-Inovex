@@ -7,7 +7,9 @@
 
 09:30 - vorstellung der Projekte 
 
-10:00 - Projekt /microbit car
+10:00 - Github Praktikumsbericht erstellen 
+
+10:30 - Projekt /microbit car 
 
 ## 12.07.25
 ## 13.07.25
