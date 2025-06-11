@@ -1,3 +1,4 @@
+![Invex-logo]()
 # Praktikumsbericht
 
 <details>
