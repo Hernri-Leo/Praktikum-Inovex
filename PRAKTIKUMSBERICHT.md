@@ -12,6 +12,9 @@
 | 10:30–11:00 | Projekt /microbit car              | Chrome                  |
 | 11:00–11:30 | GitHub bericht schreiben           |  Chrome                 |
 | 11:30–12:00 | GitHub + project microbit car         |  Chrome                 |
+| 12:00–12:30 | project microbit car      |  Chrome                 |
+| 12:30–13:00 | Mittagspause                        |  Chrome                 |
+| 13:00–13:30 | Leuchtkäfer (Glowbug)   Phyton      |  Chrome                 |
 
 
 
