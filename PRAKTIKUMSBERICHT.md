@@ -15,8 +15,8 @@
 | 12:00–12:30 | project microbit car      |  Chrome                 |
 | 12:30–13:00 | Mittagspause                        |  Chrome                 |
 | 13:00–13:30 | [Leuchtkäfer (Glowbug)](https://python-online.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/mb/crashCourse.inc.php), Phyton|  Chrome                 |
-| 13:30–13:30 | Besprechng, git                        |  git                 |
-
+| 13:30–14:00 | Besprechng, git                        |  git                 |
+| 12:00–12:30 | microbit, music, sound      |  Chrome                 |
 
 
 </details>
