@@ -20,6 +20,10 @@
 | 14:30-15:00 | [coDrone EDU](https://www.robolink.com/products/codrone-edu?srsltid=AfmBOoqVzKBaiqzHtr97QH74Hc6IdETksyb8sRNh2ABE36DKIQ6SuObc)  |  Chrome |
 | 15:00-15:30 | [coDrone EDU](https://www.robolink.com/products/codrone-edu?srsltid=AfmBOoqVzKBaiqzHtr97QH74Hc6IdETksyb8sRNh2ABE36DKIQ6SuObc)  |  Chrome |
 | 15:30-16:00 | [coDrone EDU](https://www.robolink.com/products/codrone-edu?srsltid=AfmBOoqVzKBaiqzHtr97QH74Hc6IdETksyb8sRNh2ABE36DKIQ6SuObc)  |  Chrome |
+| 16:00–16:30 | [coDrone EDU](https://www.robolink.com/products/codrone-edu?srsltid=AfmBOoqVzKBaiqzHtr97QH74Hc6IdETksyb8sRNh2ABE36DKIQ6SuObc)   |Chrome|
+| 16:30–17:00 | Projekt /microbit car              | Chrome                  |
+| 17:00–17:30 | Projekt /microbit car              | Chrome                  |
+| 17:30–18:00 | Projekt /microbit car              | Chrome                  |
 
 
 
