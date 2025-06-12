@@ -35,7 +35,7 @@
 | Uhrzeit     | Tätigkeit | Tools/Technologien |
 |-------------|-----------|--------------------|
 | 09:00–09:30 |Project: Wetter-API mit Pyton|Chrome|
-| 09:30–10:00 |           |                    |
+| 09:30–10:00 |Einrichten von visual studio code|Visual Studio Code|
 | 10:00–10:30 |           |                    |
 | 10:30–11:00 |           |                    |
 | 11:00–11:30 |           |                    |
