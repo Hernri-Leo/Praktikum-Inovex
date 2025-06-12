@@ -46,12 +46,13 @@
 | 13:30–14:00 |Project: Wetter-API mit Pyton|Python|
 | 14:00–14:30 |Project: Wetter-API mit Pyton|Python|
 | 14:30–15:00 |Project: Wetter-API mit Pyton|Python|
-| 15:00–15:30 |           |                    |
-| 15:30–16:00 |           |                    |
-| 16:00–16:30 |           |                    |
-| 16:30–17:00 |           |                    |
-| 17:00–17:30 |           |                    |
-| 17:30–18:00 |           |                    |
+| 15:00–15:30 |Projekt /microbit car|Python|
+| 15:30–16:00 |Projekt /microbit car|Python|
+| 16:00–16:30 |Projekt /microbit car|Python|
+| 16:30–17:00 |Projekt /microbit car|Python|
+| 17:00–17:30 |Projekt /microbit car|Python|
+| 17:30–18:00 |Projekt /microbit car|Python|
+| 18:00–18:30 |Projekt /microbit car|Python|
 
   
 </details>
