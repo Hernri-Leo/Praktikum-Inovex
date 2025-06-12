@@ -39,13 +39,13 @@
 | 10:00–10:30 |Einrichten von Python|     Python               |
 | 10:30–11:00 |Einrichten von Python|     Python               |
 | 11:00–11:30 | Einrichten von Python|     Python               |
-| 11:30–12:00 |           |                    |
-| 12:00–12:30 |           |                    |
-| 12:30–13:00 |           |                    |
-| 13:00–13:30 |           |                    |
-| 13:30–14:00 |           |                    |
-| 14:00–14:30 |           |                    |
-| 14:30–15:00 |           |                    |
+| 11:30–12:00 | Einrichten von Python|     Python               |
+| 12:00–12:30 |Mittagspause                        |  X                 |
+| 12:30–13:00 |Mittagspause                        |  X                 |
+| 13:00–13:30 |Pro           |                    |
+| 13:30–14:00 |Project: Wetter-API mit Pyton|Python|
+| 14:00–14:30 |Project: Wetter-API mit Pyton|Python|
+| 14:30–15:00 |Project: Wetter-API mit Pyton|Python|
 | 15:00–15:30 |           |                    |
 | 15:30–16:00 |           |                    |
 | 16:00–16:30 |           |                    |
