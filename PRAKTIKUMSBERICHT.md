@@ -1,10 +1,12 @@
  <p align="center">
-  <img src="https://github.com/Hernri-Leo/Praktikum-Inovex/blob/main/assets/inovex-logo.png" alt="inovex-logo" />
+  <img src="https://github.com/Hernri-Leo/Praktikum-Inovex/blob/main/assets/inovex-logo.png" alt="inovex-logo" link="https://www.inovex.de/de/" />
 </p>
 
 # 📝 Praktikumsbericht – Inovex
 
 Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich täglich meine Aufgaben, verwendeten Technologien und Lernfortschritte.
+
+- https://makecode.microbit.org/#editor
 
 ---
 
@@ -60,10 +62,13 @@ Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich tä
 | Uhrzeit      | Tätigkeit                    | Tools/Technologien |
 |--------------|------------------------------|--------------------|
 | 09:00–12:00  | Projektarbeit: Microbit Car  | Python             |
-| 12:00–13:00  | **Mittagspause**             | —                  |
+| 12:00–13:00  | **Mittagspause**             | X                  |
 | 13:00–14:00  | Fortsetzung Microbit Car     | Python             |
-| 14:00–14:15  | Bericht bearbeiten | github                |
-| 14:00–18:00  | (Platz für weitere Einträge) | —                  |
+| 14:00–14:15  | Bericht bearbeiten | github                       |
+| 14:15-15:15  | Microbit Car                 | Python; Chrome     |
+| 15:15-15:45  | Besprechung Praktikum (feedback) | X              |
+| 15:45-XX:XX  | | |
+| 14:45–:00  | (Platz für weitere Einträge) | X                    |
 
 </details>
 
@@ -71,18 +76,20 @@ Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich tä
 
 ## 🔧 Verwendete Tools & Technologien
 
-- **Python**, **Flask**, **requests**
-- **Git**, **GitHub**
-- **Visual Studio Code**
-- **Microbit**, **CoDrone EDU**
-- **Chrome**, **Mu Editor**
+> [!TIP]
+> - **Python**, **Flask**, **requests**
+> - **Git**, **GitHub**
+> - **Visual Studio Code**
+> - **Microbit**, **CoDrone EDU**
+> - **Chrome**, **Mu Editor**
 
 ---
 
 ## 📌 Hinweise
 
-- Alle Inhalte werden fortlaufend ergänzt.
-- Feedback ist willkommen! 🙂
+> [!NOTE]
+> - Alle Inhalte werden fortlaufend ergänzt.
+> - Feedback ist willkommen! 🙂
 
 ---
 
