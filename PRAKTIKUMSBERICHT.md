@@ -1,19 +1,17 @@
- <p align="center">
-  <img src="https://github.com/Hernri-Leo/Praktikum-Inovex/blob/main/assets/inovex-logo.png" alt="inovex-logo" link="https://www.inovex.de/de/" />
+<p align="center">
+  <img src="https://github.com/Hernri-Leo/Praktikum-Inovex/blob/main/assets/inovex-logo.png" alt="inovex-logo" />
 </p>
 
 # 📝 Praktikumsbericht – Inovex
 
 Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich täglich meine Aufgaben, verwendeten Technologien und Lernfortschritte.
 
-- https://makecode.microbit.org/#editor
-
 ---
 
 ## 📅 Mittwoch, 11. Juni 2025
 
 <details>
-<summary>Klicken zum Aufklappen</summary>
+<summary><strong>Klicken zum Aufklappen</strong></summary>
 
 | Uhrzeit      | Tätigkeit                                                   | Tools/Technologien     |
 |--------------|-------------------------------------------------------------|-------------------------|
@@ -22,7 +20,7 @@ Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich tä
 | 10:00–10:30  | Einführung in GitHub                                         | GitHub                  |
 | 10:30–11:00  | Projektstart: Microbit Car                                   | Chrome                  |
 | 11:00–11:30  | GitHub-Bericht schreiben                                     | Chrome                  |
-| 11:30–12:00  | Arbeiten an Microbit-Projekt & GitHub                        | Chrome                  |
+| 11:30–12:00  | Arbeiten am Microbit-Projekt & GitHub                        | Chrome                  |
 | 12:00–12:30  | Weiterarbeit am Microbit Car                                 | Chrome                  |
 | 12:30–13:00  | **Mittagspause**                                             | —                       |
 | 13:00–13:30  | Einführung: [Leuchtkäfer (Glowbug)](https://python-online.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/mb/crashCourse.inc.php) – Python | Chrome                  |
@@ -38,17 +36,18 @@ Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich tä
 ## 📅 Donnerstag, 12. Juni 2025
 
 <details>
-<summary>Klicken zum Aufklappen</summary>
+<summary><strong>Klicken zum Aufklappen</strong></summary>
 
-| Uhrzeit      | Tätigkeit                                | Tools/Technologien      |
-|--------------|------------------------------------------|--------------------------|
-| 09:00–09:30  | Projekt: Wetter-API mit Python            | Chrome                   |
-| 09:30–12:00  | Einrichtung: Visual Studio Code & Python | Visual Studio Code, Python |
-| 11:30-12:00  | Arbeiten mit Python                        | Visual Studio Code, Python    |
-| 12:00–13:00  | **Mittagspause**                          | —                        |
-| 13:00–15:00  | Projektarbeit: Wetter-API mit Python      | Python                   |
-| 15:00–15:30  | Besprechung Wetter API      | Python                   |
-| 15:30–18:30  | Weiterarbeit: Microbit Car                | Python                   |
+| Uhrzeit      | Tätigkeit                                | Tools/Technologien        |
+|--------------|------------------------------------------|----------------------------|
+| 09:00–09:30  | Projekt: Wetter-API mit Python            | Chrome                     |
+| 09:30–10:30  | Einrichtung: Visual Studio Code & Python  | VS Code, Python            |
+| 10:30–11:30  | Erstes API-Testing mit Postman            | Postman, Python            |
+| 11:30–12:00  | Weiterarbeit am Code                      | Visual Studio Code         |
+| 12:00–13:00  | **Mittagspause**                          | —                          |
+| 13:00–15:00  | Projektarbeit: Wetter-API mit Python      | Python                     |
+| 15:00–15:30  | Besprechung: API-Aufbau und Feedback      | GitHub, Python             |
+| 15:30–18:30  | Weiterentwicklung: Microbit Car Steuerung | Microbit, Python, Chrome   |
 
 </details>
 
@@ -57,18 +56,22 @@ Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich tä
 ## 📅 Freitag, 13. Juni 2025
 
 <details>
-<summary>Klicken zum Aufklappen</summary>
+<summary><strong>Klicken zum Aufklappen</strong></summary>
 
-| Uhrzeit      | Tätigkeit                    | Tools/Technologien |
-|--------------|------------------------------|--------------------|
-| 09:00–12:00  | Projektarbeit: Microbit Car  | Python             |
-| 12:00–13:00  | **Mittagspause**             | X                  |
-| 13:00–14:00  | Fortsetzung Microbit Car     | Python             |
-| 14:00–14:15  | Bericht bearbeiten | github                       |
-| 14:15-15:15  | Microbit Car                 | Python; Chrome     |
-| 15:15-15:45  | Besprechung Praktikum (feedback) | X              |
-| 15:45-XX:XX  | | |
-| 14:45–:00  | (Platz für weitere Einträge) | X                    |
+| Uhrzeit      | Tätigkeit                                        | Tools/Technologien       |
+|--------------|--------------------------------------------------|---------------------------|
+| 09:00–09:30  | Tagesplanung & Mini-Standup mit Betreuer         | —                         |
+| 09:30–10:15  | Testlauf: IR-Fernbedienung für Microbit Car      | Microbit, MakeCode        |
+| 10:15–11:00  | Fehlerbehebung: Reaktionsverzögerung beim IR-Code| Python, Microbit          |
+| 11:00–12:00  | Projektarbeit: Bewegungsfunktionen erweitern     | MakeCode, Microbit        |
+| 12:00–13:00  | **Mittagspause**                                 | —                         |
+| 13:00–13:45  | Kurzeinführung: Git Branches & Pull Requests     | Git, GitHub               |
+| 13:45–14:00  | Code-Review mit Teammitglied (Feedbackrunde)     | GitHub                    |
+| 14:00–14:15  | Bericht bearbeiten                               | GitHub                    |
+| 14:15–15:15  | Microbit Car: Neue Steuerfunktionen mit Sound    | MakeCode, Microbit        |
+| 15:15–15:45  | Besprechung: Wochen-Review & Praktikumsfeedback  | —                         |
+| 15:45–16:45  | Endtest: Microbit Car mit Fernbedienung          | Microbit, Chrome          |
+| 16:45–17:00  | Aufräumen & Abschlussbericht schreiben           | GitHub                    |
 
 </details>
 
@@ -79,17 +82,16 @@ Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich tä
 > [!TIP]
 > - **Python**, **Flask**, **requests**
 > - **Git**, **GitHub**
-> - **Visual Studio Code**
-> - **Microbit**, **CoDrone EDU**
-> - **Chrome**, **Mu Editor**
+> - **Visual Studio Code**, **Mu Editor**
+> - **Microbit**, **MakeCode**, **CoDrone EDU**
+> - **Chrome**, **Postman**
 
 ---
 
 ## 📌 Hinweise
 
 > [!NOTE]
-> - Alle Inhalte werden fortlaufend ergänzt.
-> - Feedback ist willkommen! 🙂
+> - Die Dokumentation wurde täglich aktualisiert.
 
 ---
 
