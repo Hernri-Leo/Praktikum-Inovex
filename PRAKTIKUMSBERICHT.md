@@ -64,10 +64,6 @@ Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich tä
 
 ---
 
-> ✍️ _Weitere Tage folgen …_
-
----
-
 ## 🔧 Verwendete Tools & Technologien
 
 - **Python**, **Flask**, **requests**
