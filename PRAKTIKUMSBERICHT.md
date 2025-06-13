@@ -40,9 +40,11 @@ Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich tä
 |--------------|------------------------------------------|--------------------------|
 | 09:00–09:30  | Projekt: Wetter-API mit Python            | Chrome                   |
 | 09:30–12:00  | Einrichtung: Visual Studio Code & Python | Visual Studio Code, Python |
+| 11:30-12:00  | Arbeiten mit Python                        | Visual Studio Code, Python    |
 | 12:00–13:00  | **Mittagspause**                          | —                        |
 | 13:00–15:00  | Projektarbeit: Wetter-API mit Python      | Python                   |
-| 15:00–18:30  | Weiterarbeit: Microbit Car                | Python                   |
+| 15:00–15:30  | Besprechung Wetter API      | Python                   |
+| 15:30–18:30  | Weiterarbeit: Microbit Car                | Python                   |
 
 </details>
 
@@ -58,6 +60,7 @@ Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich tä
 | 09:00–12:00  | Projektarbeit: Microbit Car  | Python             |
 | 12:00–13:00  | **Mittagspause**             | —                  |
 | 13:00–14:00  | Fortsetzung Microbit Car     | Python             |
+| 14:00–14:15  | Bericht bearbeiten | github                |
 | 14:00–18:00  | (Platz für weitere Einträge) | —                  |
 
 </details>
