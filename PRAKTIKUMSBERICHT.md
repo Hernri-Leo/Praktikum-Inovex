@@ -85,3 +85,69 @@ Willkommen zu meinem Praktikumsbericht bei **inovex**. Hier dokumentiere ich tä
 - Feedback ist willkommen! 🙂
 
 ---
+
+## Meine WetterAPI
+
+```python
+#importiere die benötigten Module
+import requests
+from flask import Flask, jsonify
+
+#Erstelle eine Flask 
+app = Flask(__name__)
+
+
+#Definiere einen Endpunkt (/weather), der Wetterdaten zurückgibt
+@app.route('/weather', methods=['GET'])
+def weather():
+    #URL zur Wetter-API mit festen Koordinaten (hier: Köln)
+    url = "https://api.open-meteo.com/v1/forecast?latitude=50.94&longitude=6.96&current=temperature_2m,wind_speed_10m,relative_humidity_2m"
+    #Sende eine GET-Anfrage an die API
+    response = requests.get( url )
+
+    #Wenn die Anfrage erfolgreich war (Statuscode 200)
+    if response.status_code == 200:
+        data = response.json()
+        return jsonify(data["current"])
+    
+    #Wenn die API-Anfrage fehl 
+    else:
+        return jsonify({"error": "Fehler beim Abrufen der Wetterdaten"}), 500
+    
+if __name__ == '__main__':
+    app.run(debug=True)
+```
+---
+
+```python
+
+import requests
+import time
+
+url = "http://127.0.0.1:5000/weather"
+
+while True:
+    response = requests.get( url )
+
+    if response.status_code == 200:
+        data = response.json()
+
+        temperatur = data["temperature_2m"]
+        wind = data["wind_speed_10m"]
+        feuchtigkeit = data["relative_humidity_2m"]
+
+        print('Aktuelles Wetter in Köln:')
+        print("Temperatur:", temperatur, "°C")
+        print("Windgeschwindigkeit:", wind, "km/h")
+        print("Luftfeuchtigkeit:", feuchtigkeit, "%")
+        print()
+
+    else:
+        print("Fehler beim Abrufen der Daten:", response.status_code)
+
+    time.sleep(10)
+
+```
+
+---
+
