@@ -1,4 +1,6 @@
-![inovex-logo](https://github.com/Hernri-Leo/Praktikum-Inovex/blob/main/assets/inovex-logo.png)
+ <p align="center">
+  <img src="https://github.com/Hernri-Leo/Praktikum-Inovex/blob/main/assets/inovex-logo.png" alt="inovex-logo" />
+</p>
 
 # 📝 Praktikumsbericht – Inovex
 
